@@ -1,0 +1,11 @@
+1 -> git init
+
+2 -> nopm init -y
+
+3 ->  creo mi gitignore
+
+4 ->  npm install
+
+5 -> creo mis carpetas public y src
+
+
