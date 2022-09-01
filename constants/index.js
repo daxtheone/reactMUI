@@ -1,0 +1,1 @@
+export const URL_FETCH = 'https://api.github.com/users/'
